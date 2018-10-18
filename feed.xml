@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>For you my dear</title>
+    <description>Just a simple site for you by my, for our adventures, and my thoughts so you may know me better.
+</description>
+    <link>https://foryoumydear.nl/</link>
+    <atom:link href="https://foryoumydear.nl/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 18 Oct 2018 11:17:53 +0200</pubDate>
+    <lastBuildDate>Thu, 18 Oct 2018 11:17:53 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>The day you and I became us</title>
+        <description>&lt;p&gt;This day, In your kitchen we decided to go for our relationship.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Aug 2018 01:00:00 +0200</pubDate>
+        <link>https://foryoumydear.nl/journey/2018/08/05/it-is-official.html</link>
+        <guid isPermaLink="true">https://foryoumydear.nl/journey/2018/08/05/it-is-official.html</guid>
+        
+        
+        <category>Journey</category>
+        
+      </item>
+    
+  </channel>
+</rss>
