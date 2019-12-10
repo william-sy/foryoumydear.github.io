@@ -1,0 +1,1 @@
+{"groups":{"#0868ac":{"div":"#box0","label":"Places you and I have been Together","paths":["France","Spain","Belgium","Netherlands","Greece","United_Kingdom","Malaysia","Cambodia","Luxembourg"]},"#cc3333":{"div":"#box1","label":"Places that are on our roadmap","paths":["Austria","Czechia","Hungary","Japan"]}},"title":"","hidden":[],"background":"#9f9f9f","borders":"#000000"}
